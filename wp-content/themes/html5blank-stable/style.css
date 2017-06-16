@@ -75,8 +75,7 @@ input:focus {
 
 /* wrapper */
 .wrapper {
-	max-width:1280px;
-	width:95%;
+	width:100%;
 	margin:0 auto;
 	position:relative;
 }
@@ -102,6 +101,35 @@ input:focus {
 /* footer */
 .footer {
 
+}
+
+/*------------------------------------*\
+    MAIN PAGE
+\*------------------------------------*/
+
+.main
+{
+	background-color: black;
+	width: 100%;
+	height: 200px;
+}
+
+.section
+{
+	height: 300px;
+	width: 33.33%;
+	float: left;
+	background-color: blue;
+}
+
+/*------------------------------------*\
+    FOOTER
+\*------------------------------------*/
+
+.copyright
+{
+	text-align: center;
+	clear: both;
 }
 
 /*------------------------------------*\

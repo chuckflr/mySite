@@ -1,13 +1,15 @@
 <?php get_header(); ?>
 
-	<main role="main">
-		<!-- section -->
-		<section>
+	<main role="main" class="main">
 
-			<?php get_template_part('pagination'); ?>
+		
 
-		</section>
-		<!-- /section -->
 	</main>
+
+	<section class="section"></section>
+
+	<section class="section"></section>
+
+	<section class="section"></section>
 
 <?php get_footer(); ?>
