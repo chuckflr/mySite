@@ -31,11 +31,15 @@
 			<!-- header -->
 			<header class="header clear" role="banner">
 
-					<!-- nav -->
-					<nav class="nav" role="navigation">
-						
-					</nav>
-					<!-- /nav -->
+					<p class="name">Carlos Flores</p>
+
+					<p class="text">Just an ordinary coder</p>
 
 			</header>
 			<!-- /header -->
+
+			<!-- nav -->
+			<nav class="nav" role="navigation">
+				
+			</nav>
+			<!-- /nav -->
