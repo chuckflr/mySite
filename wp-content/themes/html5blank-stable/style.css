@@ -144,6 +144,28 @@ input:focus {
     FOOTER
 \*------------------------------------*/
 
+ul
+{
+	text-align: center;
+}
+
+li
+{
+	display: inline-block;
+}
+
+li i.fa
+{
+	font-size: 36px;
+	padding:20px;
+}
+
+li i.fa:hover
+{
+	background-color: #fff;
+	border-radius: 25px;
+}
+
 .copyright
 {
 	text-align: center;

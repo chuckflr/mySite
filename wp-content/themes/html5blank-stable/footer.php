@@ -1,6 +1,18 @@
 			<!-- footer -->
 			<footer class="footer" role="contentinfo">
 
+				<!-- font awesome -->
+				<p class="icons">
+					<ul>
+						<li><i class="fa fa-twitter"></i></li>
+						<li><i class="fa fa-facebook"></i></li>
+						<li><i class="fa fa-tumblr"></i></li>
+						<li><i class="fa fa-instagram"></i></li>
+						<li><i class="fa fa-dribbble"></i></li>
+					</ul>
+				</p>	
+				<!-- /font awesome -->
+
 				<!-- copyright -->
 				<p class="copyright">
 					&copy; <?php echo date('Y'); ?> Copyright <strong>Carlos Flores</strong>.
