@@ -5,8 +5,8 @@
 				<p class="icons">
 					<ul>
 						<li><i class="fa fa-twitter"></i></li>
-						<li><i class="fa fa-facebook"></i></li>
-						<li><i class="fa fa-tumblr"></i></li>
+						<li><i class="fa fa-github-alt"></i></li>
+						<li><i class="fa fa-pied-piper-pp"></i></li>
 						<li><i class="fa fa-instagram"></i></li>
 						<li><i class="fa fa-dribbble"></i></li>
 					</ul>

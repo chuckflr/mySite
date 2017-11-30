@@ -147,6 +147,7 @@ input:focus {
 ul
 {
 	text-align: center;
+	padding-left: 0;
 }
 
 li
@@ -156,14 +157,16 @@ li
 
 li i.fa
 {
-	font-size: 36px;
+	font-size: 18px;
 	padding:20px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 li i.fa:hover
 {
 	background-color: #fff;
-	border-radius: 25px;
+	border-radius: 50px;
 }
 
 .copyright
